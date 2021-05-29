@@ -1,0 +1,45 @@
+.item{
+    background:#FBFCFC ;
+    ;
+    font-size:28px;
+}
+body{background:url("Sportsimg.jpg")
+
+}
+.head{
+    display:flex;
+    justify-content:space-evenly;
+    background:#FBFCFC ;
+    margin:0;
+    
+  }
+  .menu
+{
+  display:flex;
+  justify-content:space-evenly;
+  background:#FBFCFC ;
+  padding:15px;
+  border-radius:45px;
+}
+.info{
+    font-weight:50px;
+  }
+  .h1{
+    background:#FBFCFC ;
+    padding:15px;
+  border-radius:45px;
+    
+  }
+  .ab{
+    color:black;
+    font-size:38px ;
+    padding:15px;
+  border-radius:45px;
+  }
+
+  .cd{
+    font-size:28px;
+    padding:15px;
+  border-radius:45px;
+  }
+  
